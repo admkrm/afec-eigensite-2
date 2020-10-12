@@ -5,6 +5,7 @@ date: 2020-09-10
 tags:
   - tag1
   - tag2
+categories: categorie1
 layout: 'layouts/post.html'
 ---
 
